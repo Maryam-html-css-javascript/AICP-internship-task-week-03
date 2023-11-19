@@ -37,7 +37,7 @@ void displayBillForSlab(int matrix[][3], int slabIndex, const string& studentID,
 }
 
 int main() {
-    const string studentID = "2021BCS025"; // Student ID
+    const string studentID = "Maryam Siddiqui(BCS-027)"; // Student ID
 
     // Source data matrix
     int sourceMatrix[3][3] = {
